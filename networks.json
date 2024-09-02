@@ -1,8 +1,8 @@
 {
-	"zklink": {
+	"bahamut": {
 		"Factory": {
-			"address": "0x87929083ac2215cF3CE4936857D314aF6687C978",
-			"startBlock": 79192
+			"address": "0xd0c5d23290d63e06a0c4b87f14bd2f7aa551a895",
+			"startBlock": 2388831
 		}
 	}
 }
