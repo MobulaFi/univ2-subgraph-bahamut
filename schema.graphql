@@ -187,6 +187,7 @@ type Swap @entity(immutable: true) {
 type Bundle @entity(immutable: false) {
   id: ID!
   ethPriceUSD: BigDecimal! # price of ETH denominated in USD
+  ethPrice: BigDecimal!
 }
 
 # Data accumulated and condensed into day stats for all of Uniswap
