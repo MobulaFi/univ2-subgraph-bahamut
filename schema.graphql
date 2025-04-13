@@ -186,7 +186,6 @@ type Swap @entity(immutable: true) {
 # stores for USD calculations
 type Bundle @entity(immutable: false) {
   id: ID!
-  ethPriceUSD: BigDecimal! # price of ETH denominated in USD
   ethPrice: BigDecimal!
 }
 
